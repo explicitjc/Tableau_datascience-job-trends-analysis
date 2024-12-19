@@ -12,71 +12,72 @@ This case study investigates job trends in the data science industry, focusing o
 - Count of different industries using `COUNTD`: 119.
 - Building a bar chart to visualize the companies attracting the most job postings.
 
-![industry_count.png](image_path)
+![industry_count.png](images/industry_count.png)
 
 ### Step 2: Job Posting Trends Over Time
 **Objective**: Examine how the number of job postings changes over time.
 - Observed a significant drop in March 2020 due to COVID-19.
 - Filtered the dataset to focus on the roles: Data Engineer, Data Analyst, Data Scientist, Machine Learning Engineer, Data Science Manager.
 
-![job_postings_trends.png](image_path)
+![job_postings_trends.png](images/job_postings_trends.png)
 
 ### Step 3: Salary vs Years of Experience
 **Objective**: Visualize the relationship between salary and years of experience.
 - Calculated the average pay and compared it to years of experience.
 
-![salary_experience.png](image_path)
+![salary_experience.png](images/salary_experience.png)
 
 ### Step 4: Job Skills Analysis
 **Objective**: Analyze the skills required for various job postings.
 - Correlation between the number of applicants and job postings.
 - Split job skills into separate categories, focusing on Tableau and other essential tools.
 
-![job_skills.png](image_path)
+![job_skills.png](images/job_skills.png)
 
 ### Step 5: Demand vs Supply by Experience Level
 **Objective**: Explore the demand and supply of job postings by experience level.
 - Examined the number of postings for each experience level and job position.
 
-![demand_supply_experience.png](image_path)
+![demand_supply_experience.png](images/demand_supply_experience.png)
 
 ### Step 6: Job Titles and Skills in High Demand
 **Objective**: Identify the job titles and skills in high demand, particularly Tableau.
 - Calculated the top 3 Tableau-related skills in job postings.
 
-![tableau_skills.png](image_path)
+![tableau_skills.png](images/tableau_skills.png)
 
 ### Step 7: Job Description Correlation Analysis
 **Objective**: Analyze the correlation between years of experience, level, and role.
 - Investigated job titles to understand how these factors correlate within job descriptions.
 
-![job_correlation.png](image_path)
+![job_correlation.png](images/job_correlation.png)
 
 ## Dashboard Insights and Recommendations
+
+![Dashboard.png](images/Dashboard.png)
 
 ### 1. Job Trends Overview
 **Description**: This page summarizes job trends, showing the overall number of job postings and how they have evolved over time.
 - **Insights**: The number of job postings has been increasing, especially for Data Scientist and Data Engineer roles.
 
-![job_trends_overview.png](image_path)
-
+![job_trends_overview.png](images/job_trends_overview.png)
 ### 2. Job Skills and Positions
 **Description**: This page explores the most common skills required across job postings, with a focus on Tableau.
 - **Insights**: Tableau is a critical skill in high-demand positions like Data Scientist and Data Analyst.
 
-![skills_positions.png](image_path)
+![skills_positions.png](images/skills_positions.png)
 
 ### 3. Salary Trends and Experience Levels
 **Description**: This page compares salary trends across different experience levels.
 - **Insights**: Salaries increase with experience, but Data Scientist positions are among the highest paying roles.
 
-![salary_trends.png](image_path)
+![salary_trends.png](images/salary_trends.png)
 
 ### 4. Demand vs Supply by Role
 **Description**: This page compares the demand for various job roles with the number of applicants and job postings.
 - **Insights**: Data Engineers and Data Analysts have the highest demand but are often in short supply.
 
-![demand_supply_roles.png](image_path)
+![demand_supply_roles.png](images/demand_supply_roles.png)
 
 ## Recommendations
 - **Increase focus on high-demand roles**: Data Scientist, Data Engineer, and Data Analyst positions need more attention from recruiters.
