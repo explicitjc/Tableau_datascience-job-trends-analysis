@@ -77,21 +77,32 @@ This case study investigates job trends in the data science industry, focusing o
 
 ![Dashboard.png](images/Dashboard.png)
 
-### 1. Job Trends Overview
-**Description**: This page summarizes job trends, showing the overall number of job postings and how they have evolved over time.
-- **Insights**: The number of job postings has been increasing, especially for Data Scientist and Data Engineer roles.
+### 1. **Job Trends Overview**
+**Description**: This page summarizes job trends, showing the overall number of job postings and how they have evolved over time.  
+- **Insights**:  
+  - The number of job postings has been steadily increasing.  
+  - Data Scientist and Data Engineer roles show significant growth in demand.  
 
-### 2. Job Skills and Positions
-**Description**: This page explores the most common skills required across job postings, with a focus on Tableau.
-- **Insights**: Tableau is a critical skill in high-demand positions like Data Scientist and Data Analyst.
 
-### 3. Salary Trends and Experience Levels
-**Description**: This page compares salary trends across different experience levels.
-- **Insights**: Salaries increase with experience, but Data Scientist positions are among the highest paying roles.
+### 2. **Job Skills and Positions**
+**Description**: This page explores the most common skills required across job postings, with a focus on Tableau.  
+- **Insights**:  
+  - Tableau is a critical skill for high-demand roles like Data Scientist and Data Analyst.  
+  - Proficiency in Tableau correlates with higher chances of securing these positions.
 
-### 4. Demand vs Supply by Role
-**Description**: This page compares the demand for various job roles with the number of applicants and job postings.
-- **Insights**: Data Engineers and Data Analysts have the highest demand but are often in short supply.
+
+### 3. **Salary Trends and Experience Levels**
+**Description**: This page compares salary trends across different experience levels.  
+- **Insights**:  
+  - Salaries tend to increase significantly with experience.  
+  - Data Scientist roles are among the highest-paying positions, even for mid-senior level candidates.  
+
+
+### 4. **Demand vs Supply by Role**
+**Description**: This page compares the demand for various job roles with the number of applicants and job postings.  
+- **Insights**:  
+  - Data Engineers and Data Analysts face the highest demand but are often in short supply.  
+  - There is a clear gap between the demand for these roles and the available talent pool.
 
 
 ## Recommendations
